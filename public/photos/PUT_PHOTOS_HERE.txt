@@ -1,0 +1,2 @@
+Put your resized photos in this folder. Example paths: /photos/your-photo-1.jpg
+Update src/content.ts to match each filename.
